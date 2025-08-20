@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250820T002057Z&X-Amz-Expires=300&X-Amz-Signature=4a89403e6ae4a346233441d82dab5a56e93df6ddc24d781cbc3fd0cccd964476&X-Amz-SignedHeaders=host" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
